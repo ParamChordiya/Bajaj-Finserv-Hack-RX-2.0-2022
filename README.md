@@ -9,7 +9,7 @@ You can find below the process flow of the project:
 
 Certificate!
 
-![image](certificate.png)
+![image](Certificate..jpg)
 
 
 
